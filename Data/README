@@ -1,1 +1,4 @@
+This Data is generated using a Simulink model of a cabin pressure model.
+It contains the following informations:
 
+Time, Height, CurrentValvePosition, AmbientePressure, CabinPressure, CabinTemperature, CommandedCabinPressure
